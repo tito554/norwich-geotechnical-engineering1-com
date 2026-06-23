@@ -1,0 +1,52 @@
+# Geotechnical Engineering1 — Norwich
+
+> Geotechnical engineering services in Norwich, United Kingdom.
+
+## Services
+- [Anchors](https://norwich.geotechnical-engineering1.com/anchors/)
+- [Atterberg Limits](https://norwich.geotechnical-engineering1.com/atterberg-limits/)
+- [Cbr Road](https://norwich.geotechnical-engineering1.com/cbr-road/)
+- [Cpt Test](https://norwich.geotechnical-engineering1.com/cpt-test/)
+- [Deep Excavations](https://norwich.geotechnical-engineering1.com/deep-excavations/)
+- [Excavation Monitoring](https://norwich.geotechnical-engineering1.com/excavation-monitoring/)
+- [Excavations](https://norwich.geotechnical-engineering1.com/excavations/)
+- [Flexible Pavement](https://norwich.geotechnical-engineering1.com/flexible-pavement/)
+- [Footings](https://norwich.geotechnical-engineering1.com/footings/)
+- [Foundations](https://norwich.geotechnical-engineering1.com/foundations/)
+- [Geophysics](https://norwich.geotechnical-engineering1.com/geophysics/)
+- [Grain Size](https://norwich.geotechnical-engineering1.com/grain-size/)
+- [Ground Improvement](https://norwich.geotechnical-engineering1.com/ground-improvement/)
+- [Grouting](https://norwich.geotechnical-engineering1.com/grouting/)
+- [In Situ Permeability](https://norwich.geotechnical-engineering1.com/in-situ-permeability/)
+- [Investigation](https://norwich.geotechnical-engineering1.com/investigation/)
+- [Lab In Situ](https://norwich.geotechnical-engineering1.com/lab-in-situ/)
+- [Laboratory](https://norwich.geotechnical-engineering1.com/laboratory/)
+- [Liquefaction](https://norwich.geotechnical-engineering1.com/liquefaction/)
+- [Masw](https://norwich.geotechnical-engineering1.com/masw/)
+- [Mat Foundations](https://norwich.geotechnical-engineering1.com/mat-foundations/)
+- [Piles](https://norwich.geotechnical-engineering1.com/piles/)
+- [Plate Load Test](https://norwich.geotechnical-engineering1.com/plate-load-test/)
+- [Resistivity](https://norwich.geotechnical-engineering1.com/resistivity/)
+- [Retaining Walls](https://norwich.geotechnical-engineering1.com/retaining-walls/)
+- [Rigid Pavement](https://norwich.geotechnical-engineering1.com/rigid-pavement/)
+- [Road Geotechnics](https://norwich.geotechnical-engineering1.com/road-geotechnics/)
+- [Sand Cone Density](https://norwich.geotechnical-engineering1.com/sand-cone-density/)
+- [Seismic](https://norwich.geotechnical-engineering1.com/seismic/)
+- [Seismic Isolation](https://norwich.geotechnical-engineering1.com/seismic-isolation/)
+- [Seismic Microzonation](https://norwich.geotechnical-engineering1.com/seismic-microzonation/)
+- [Seismic Refraction](https://norwich.geotechnical-engineering1.com/seismic-refraction/)
+- [Slope Stability](https://norwich.geotechnical-engineering1.com/slope-stability/)
+- [Slopes](https://norwich.geotechnical-engineering1.com/slopes/)
+- [Soft Ground Tunnels](https://norwich.geotechnical-engineering1.com/soft-ground-tunnels/)
+- [Spt Drilling](https://norwich.geotechnical-engineering1.com/spt-drilling/)
+- [Stone Columns](https://norwich.geotechnical-engineering1.com/stone-columns/)
+- [Test Pits](https://norwich.geotechnical-engineering1.com/test-pits/)
+- [Triaxial](https://norwich.geotechnical-engineering1.com/triaxial/)
+- [Vibrocompaction](https://norwich.geotechnical-engineering1.com/vibrocompaction/)
+
+## Contact
+- Website: https://norwich.geotechnical-engineering1.com/
+
+## About
+This site provides geotechnical engineering services in Norwich, United Kingdom.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
